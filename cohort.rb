@@ -90,3 +90,15 @@ class Cohort
   end
 
 end
+
+
+robocop = Cohort.new(Date.today)
+
+puts robocop.coffee_code_days
+puts " "
+puts robocop.class_days
+puts " "
+puts robocop.weeks_of_cohort
+puts " "
+puts robocop.last_day
+
