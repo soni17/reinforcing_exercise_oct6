@@ -7,7 +7,7 @@ class Cohort
 
   FIRST_COFFEE_CODE_WEEK = 3
   LAST_COFFEE_CODE_WEEK = 10 
-  WEEKS_IN_COHORT = 10 
+  WEEKS_IN_COHORT = 12 
 
 
   def initialize(first_day)
